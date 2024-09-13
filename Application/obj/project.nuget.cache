@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F4z0r5SCub4=",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\UNAJ\\Ingeniería en Informática\\Proyecto de Software\\2024\\TPs\\TP1-Cejas_Nahuel\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nahue\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}

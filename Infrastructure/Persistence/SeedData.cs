@@ -1,0 +1,46 @@
+﻿using Domain.Entities;
+using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Infrastructure.Persistence
+{
+    public static class SeedData
+    {
+        public static void Seed(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<User>().HasData(
+                new User { UserID = 1, Name = "Joe Done", Email = "jdone@marketing.com" },
+                new User { UserID = 2, Name = "Nill Armstrong", Email = "namstrong@marketing.com" },
+                new User { UserID = 3, Name = "Marlyn Morales", Email = "mmorales@marketing.com" },
+                new User { UserID = 4, Name = "Antony Orué", Email = "aorue@marketing.com" },
+                new User { UserID = 5, Name = "Jazmin Fernandez", Email = "jfernandez@marketing.com" }
+            );
+
+            modelBuilder.Entity<JobStatus>().HasData(
+                new JobStatus { Id = 1, Name = "Pending" },
+                new JobStatus { Id = 2, Name = "In Progress" },
+                new JobStatus { Id = 3, Name = "Blocked" },
+                new JobStatus { Id = 4, Name = "Done" },
+                new JobStatus { Id = 5, Name = "Cancel" }
+            );
+
+            modelBuilder.Entity<InteractionType>().HasData(
+                new InteractionType { Id = 1, Name = "Initial Meeting" },
+                new InteractionType { Id = 2, Name = "Phone call" },
+                new InteractionType { Id = 3, Name = "Email" },
+                new InteractionType { Id = 4, Name = "Presentation of Results" }
+            );
+
+            modelBuilder.Entity<CampaignType>().HasData(
+                new CampaignType { Id = 1, Name = "SEO" },
+                new CampaignType { Id = 2, Name = "PPC" },
+                new CampaignType { Id = 3, Name = "Social Media" },
+                new CampaignType { Id = 4, Name = "Email Marketing" }
+            );
+        }
+    }
+}

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\UNAJ\\Ingenier\u00EDa en Inform\u00E1tica\\Proyecto de Software\\2024\\TPs\\TP1-Cejas_Nahuel\\CrmApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6DDE80-FCBD-4019-B61A-59974EFA968B}|..\\Application\\Application.csproj|d:\\documents\\unaj\\ingenier\u00EDa en inform\u00E1tica\\proyecto de software\\2024\\tps\\tp1-cejas_nahuel\\application\\validators\\validatorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6DDE80-FCBD-4019-B61A-59974EFA968B}|..\\Application\\Application.csproj|d:\\documents\\unaj\\ingenier\u00EDa en inform\u00E1tica\\proyecto de software\\2024\\tps\\tp1-cejas_nahuel\\application\\usecase\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6DDE80-FCBD-4019-B61A-59974EFA968B}|..\\Application\\Application.csproj|d:\\documents\\unaj\\ingenier\u00EDa en inform\u00E1tica\\proyecto de software\\2024\\tps\\tp1-cejas_nahuel\\application\\usecase\\projectgetservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6DDE80-FCBD-4019-B61A-59974EFA968B}|..\\Application\\Application.csproj|d:\\documents\\unaj\\ingenier\u00EDa en inform\u00E1tica\\proyecto de software\\2024\\tps\\tp1-cejas_nahuel\\application\\usecase\\projectpatchservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6DDE80-FCBD-4019-B61A-59974EFA968B}|..\\Application\\Application.csproj|d:\\documents\\unaj\\ingenier\u00EDa en inform\u00E1tica\\proyecto de software\\2024\\tps\\tp1-cejas_nahuel\\application\\usecase\\projectpostservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40866621-D688-4398-8639-13139FA5F99A}|..\\Infrastructure\\Infrastructure.csproj|d:\\documents\\unaj\\ingenier\u00EDa en inform\u00E1tica\\proyecto de software\\2024\\tps\\tp1-cejas_nahuel\\infrastructure\\querys\\taskquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6DDE80-FCBD-4019-B61A-59974EFA968B}|..\\Application\\Application.csproj|d:\\documents\\unaj\\ingenier\u00EDa en inform\u00E1tica\\proyecto de software\\2024\\tps\\tp1-cejas_nahuel\\application\\usecase\\projectputservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40866621-D688-4398-8639-13139FA5F99A}|..\\Infrastructure\\Infrastructure.csproj|d:\\documents\\unaj\\ingenier\u00EDa en inform\u00E1tica\\proyecto de software\\2024\\tps\\tp1-cejas_nahuel\\infrastructure\\querys\\interactionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 129,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 252,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectPatchServices.cs",
+              "DocumentMoniker": "D:\\Documents\\UNAJ\\Ingenier\u00EDa en Inform\u00E1tica\\Proyecto de Software\\2024\\TPs\\TP1-Cejas_Nahuel\\Application\\UseCase\\ProjectPatchServices.cs",
+              "RelativeDocumentMoniker": "..\\Application\\UseCase\\ProjectPatchServices.cs",
+              "ToolTip": "D:\\Documents\\UNAJ\\Ingenier\u00EDa en Inform\u00E1tica\\Proyecto de Software\\2024\\TPs\\TP1-Cejas_Nahuel\\Application\\UseCase\\ProjectPatchServices.cs",
+              "RelativeToolTip": "..\\Application\\UseCase\\ProjectPatchServices.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAmwJEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:54:24.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InteractionQuery.cs",
+              "DocumentMoniker": "D:\\Documents\\UNAJ\\Ingenier\u00EDa en Inform\u00E1tica\\Proyecto de Software\\2024\\TPs\\TP1-Cejas_Nahuel\\Infrastructure\\Querys\\InteractionQuery.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Querys\\InteractionQuery.cs",
+              "ToolTip": "D:\\Documents\\UNAJ\\Ingenier\u00EDa en Inform\u00E1tica\\Proyecto de Software\\2024\\TPs\\TP1-Cejas_Nahuel\\Infrastructure\\Querys\\InteractionQuery.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Querys\\InteractionQuery.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:58:02.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectPostServices.cs",
+              "DocumentMoniker": "D:\\Documents\\UNAJ\\Ingenier\u00EDa en Inform\u00E1tica\\Proyecto de Software\\2024\\TPs\\TP1-Cejas_Nahuel\\Application\\UseCase\\ProjectPostServices.cs",
+              "RelativeDocumentMoniker": "..\\Application\\UseCase\\ProjectPostServices.cs",
+              "ToolTip": "D:\\Documents\\UNAJ\\Ingenier\u00EDa en Inform\u00E1tica\\Proyecto de Software\\2024\\TPs\\TP1-Cejas_Nahuel\\Application\\UseCase\\ProjectPostServices.cs",
+              "RelativeToolTip": "..\\Application\\UseCase\\ProjectPostServices.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:06:29.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskQuery.cs",
+              "DocumentMoniker": "D:\\Documents\\UNAJ\\Ingenier\u00EDa en Inform\u00E1tica\\Proyecto de Software\\2024\\TPs\\TP1-Cejas_Nahuel\\Infrastructure\\Querys\\TaskQuery.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Querys\\TaskQuery.cs",
+              "ToolTip": "D:\\Documents\\UNAJ\\Ingenier\u00EDa en Inform\u00E1tica\\Proyecto de Software\\2024\\TPs\\TP1-Cejas_Nahuel\\Infrastructure\\Querys\\TaskQuery.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Querys\\TaskQuery.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:07:20.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectPutServices.cs",
+              "DocumentMoniker": "D:\\Documents\\UNAJ\\Ingenier\u00EDa en Inform\u00E1tica\\Proyecto de Software\\2024\\TPs\\TP1-Cejas_Nahuel\\Application\\UseCase\\ProjectPutServices.cs",
+              "RelativeDocumentMoniker": "..\\Application\\UseCase\\ProjectPutServices.cs",
+              "ToolTip": "D:\\Documents\\UNAJ\\Ingenier\u00EDa en Inform\u00E1tica\\Proyecto de Software\\2024\\TPs\\TP1-Cejas_Nahuel\\Application\\UseCase\\ProjectPutServices.cs",
+              "RelativeToolTip": "..\\Application\\UseCase\\ProjectPutServices.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwEwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:08:34.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectGetServices.cs",
+              "DocumentMoniker": "D:\\Documents\\UNAJ\\Ingenier\u00EDa en Inform\u00E1tica\\Proyecto de Software\\2024\\TPs\\TP1-Cejas_Nahuel\\Application\\UseCase\\ProjectGetServices.cs",
+              "RelativeDocumentMoniker": "..\\Application\\UseCase\\ProjectGetServices.cs",
+              "ToolTip": "D:\\Documents\\UNAJ\\Ingenier\u00EDa en Inform\u00E1tica\\Proyecto de Software\\2024\\TPs\\TP1-Cejas_Nahuel\\Application\\UseCase\\ProjectGetServices.cs",
+              "RelativeToolTip": "..\\Application\\UseCase\\ProjectGetServices.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:19:45.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "D:\\Documents\\UNAJ\\Ingenier\u00EDa en Inform\u00E1tica\\Proyecto de Software\\2024\\TPs\\TP1-Cejas_Nahuel\\Application\\UseCase\\UserServices.cs",
+              "RelativeDocumentMoniker": "..\\Application\\UseCase\\UserServices.cs",
+              "ToolTip": "D:\\Documents\\UNAJ\\Ingenier\u00EDa en Inform\u00E1tica\\Proyecto de Software\\2024\\TPs\\TP1-Cejas_Nahuel\\Application\\UseCase\\UserServices.cs",
+              "RelativeToolTip": "..\\Application\\UseCase\\UserServices.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:21:31.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidatorHandler.cs",
+              "DocumentMoniker": "D:\\Documents\\UNAJ\\Ingenier\u00EDa en Inform\u00E1tica\\Proyecto de Software\\2024\\TPs\\TP1-Cejas_Nahuel\\Application\\Validators\\ValidatorHandler.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Validators\\ValidatorHandler.cs",
+              "ToolTip": "D:\\Documents\\UNAJ\\Ingenier\u00EDa en Inform\u00E1tica\\Proyecto de Software\\2024\\TPs\\TP1-Cejas_Nahuel\\Application\\Validators\\ValidatorHandler.cs",
+              "RelativeToolTip": "..\\Application\\Validators\\ValidatorHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:26:44.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

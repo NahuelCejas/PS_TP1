@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CrmApi</name>
+    </assembly>
+    <members>
+        <member name="M:CrmApi.Controllers.CampaignTypeController.GetListCampaignTypes">
+            <summary>
+            Retrieves a list of all campaign types.
+            </summary> 
+            <response code="200">Success</response>
+        </member>
+        <member name="M:CrmApi.Controllers.ClientController.GetListClients">
+            <summary>
+            Retrieves a list of all clients.
+            </summary> 
+            <response code="200">Success</response>
+        </member>
+        <member name="M:CrmApi.Controllers.ClientController.CreateClient(Application.Request.ClientsRequest)">
+            <summary>
+            Creates a new client with the provided details.
+            </summary> 
+            <param name="request">The details of the client to be created.</param>
+            <response code="201">Client created successfully.</response>
+        </member>
+        <member name="M:CrmApi.Controllers.InteractionTypesController.GetListInteractionTypes">
+            <summary>
+            Retrieves a list of all interaction types.
+            </summary> 
+            <response code="200">Success</response>
+        </member>
+        <member name="M:CrmApi.Controllers.ProjectController.GetProjects(System.String,System.Nullable{System.Int32},System.Nullable{System.Int32},System.Nullable{System.Int32},System.Nullable{System.Int32})">
+            <summary>
+            Retrieves a list of projects based on the provided filters such as
+            project name, campaign type, client, with optional pagination
+            parameters.
+            </summary>
+            <param name="name">Optional. Filter by project name.</param>
+            <param name="campaign">Optional. Filter by campaign type ID.</param>
+            <param name="client">Optional. Filter by client ID.</param>
+            <param name="offset">Optional. Skip the specified number of records (used for pagination).</param>
+            <param name="size">Optional. Limit the number of records returned (used for pagination).</param>
+            <response code="200">Success</response>
+            /// <returns>A list of projects that match the specified filters.</returns>
+        </member>
+        <member name="M:CrmApi.Controllers.ProjectController.CreateProject(Application.Request.ProjectRequest)">
+            <summary>
+            Creates a new project with the specified details.
+            </summary> 
+            <param name="request">The details of the project to be created.</param>
+            <response code="201">Project created successfully.</response>
+        </member>
+        <member name="M:CrmApi.Controllers.ProjectController.GetProjectById(System.Guid)">
+            <summary>
+            Retrieves detailed information about a specific project by its ID.
+            </summary>
+            <param name="id">The unique identifier of the project.</param>
+            <response code="200">Success</response>
+            <returns>The project details.</returns>
+        </member>
+        <member name="M:CrmApi.Controllers.ProjectController.AddInteraction(System.Guid,Application.Request.InteractionsRequest)">
+            <summary>
+            Adds a new interaction to an existing project.
+            </summary>
+            <param name="id">The unique identifier of the project.</param>
+            <param name="request">The details of the interaction to be added.</param>
+            <response code="200">Success</response>
+            <returns>The project interactions.</returns>
+        </member>
+        <member name="M:CrmApi.Controllers.ProjectController.AddTask(System.Guid,Application.Request.TasksRequest)">
+            <summary>
+            Adds a new task to an existing project.
+            </summary>
+            <param name="id">The unique identifier of the project.</param>
+            <param name="request">The details of the task to be added.</param>
+            <response code="200">Success</response>
+            <returns>The project interactions.</returns>
+        </member>
+        <member name="M:CrmApi.Controllers.ProjectController.UpdateTask(System.Guid,Application.Request.TasksRequest)">
+            <summary>
+            Updates an existing task with the specified details.
+            </summary>
+            <param name="id">The unique identifier of the task to be updated.</param>
+            <param name="request">The updated details of the task.</param>
+            <response code="200">Success</response>         
+        </member>
+        <member name="M:CrmApi.Controllers.TaskStatusController.GetListTaskStatus">
+            <summary>
+            Retrieves a list of all task statuses.
+            </summary> 
+            <response code="200">Success</response>
+        </member>
+        <member name="M:CrmApi.Controllers.UserController.GetListUsers">
+            <summary>
+            Retrieves a list of all users.
+            </summary> 
+            <response code="200">Success</response>
+        </member>
+    </members>
+</doc>
