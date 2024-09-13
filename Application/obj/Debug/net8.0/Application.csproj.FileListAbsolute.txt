@@ -43,3 +43,4 @@ D:\Documents\UNAJ\Ingeniería en Informática\Proyecto de Software\2024\TPs\Prue
 D:\Documents\UNAJ\Ingeniería en Informática\Proyecto de Software\2024\TPs\Prueba\TP1-Cejas_Nahuel\Application\obj\Debug\net8.0\refint\Application.dll
 D:\Documents\UNAJ\Ingeniería en Informática\Proyecto de Software\2024\TPs\Prueba\TP1-Cejas_Nahuel\Application\obj\Debug\net8.0\Application.pdb
 D:\Documents\UNAJ\Ingeniería en Informática\Proyecto de Software\2024\TPs\Prueba\TP1-Cejas_Nahuel\Application\obj\Debug\net8.0\ref\Application.dll
+D:\Documents\UNAJ\Ingeniería en Informática\Proyecto de Software\2024\TPs\TP1-Cejas_Nahuel\Application\obj\Debug\net8.0\Application.sourcelink.json

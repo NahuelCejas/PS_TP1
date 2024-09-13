@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Application.Interfaces
 {
-    public interface IValidatorHandler<TRequest>
+    public interface IValidatorHandler<in TRequest>
     {
         Task Validate(TRequest request);        
     }

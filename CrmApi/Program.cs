@@ -57,6 +57,7 @@ namespace CrmApi
             builder.Services.AddScoped<IProjectPatchServices, ProjectPatchServices>();
             builder.Services.AddScoped<IProjectPutServices, ProjectPutServices>();            
             builder.Services.AddScoped<ITaskQuery, TaskQuery>();
+            builder.Services.AddScoped<IInteractionQuery, InteractionQuery>();
 
             // Register the validators
             builder.Services.AddValidatorsFromAssemblyContaining<ProjectRequestValidator>();

@@ -330,3 +330,4 @@ D:\Documents\UNAJ\Ingeniería en Informática\Proyecto de Software\2024\TPs\Prue
 D:\Documents\UNAJ\Ingeniería en Informática\Proyecto de Software\2024\TPs\TP1-Cejas_Nahuel\CrmApi\bin\Debug\net8.0\FluentValidation.dll
 D:\Documents\UNAJ\Ingeniería en Informática\Proyecto de Software\2024\TPs\TP1-Cejas_Nahuel\CrmApi\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 D:\Documents\UNAJ\Ingeniería en Informática\Proyecto de Software\2024\TPs\TP1-Cejas_Nahuel\CrmApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Documents\UNAJ\Ingeniería en Informática\Proyecto de Software\2024\TPs\TP1-Cejas_Nahuel\CrmApi\obj\Debug\net8.0\CrmApi.sourcelink.json

@@ -10,6 +10,6 @@ namespace Application.Interfaces
 {
     public interface IProjectPostServices
     {       
-        Task<ProjectDetails> CreateProject(ProjectRequest project);        
+        Task<ProjectDetails> CreateProject(ProjectRequest projectRequest);        
     }
 }

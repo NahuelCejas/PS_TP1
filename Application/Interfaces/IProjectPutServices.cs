@@ -10,6 +10,6 @@ namespace Application.Interfaces
 {
     public interface IProjectPutServices
     {        
-        Task<Tasks> UpdateTask(Guid taskId, TasksRequest task);       
+        Task<Tasks> UpdateTask(Guid taskId, TasksRequest taskRequest);       
     }
 }

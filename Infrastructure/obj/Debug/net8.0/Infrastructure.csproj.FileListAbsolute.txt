@@ -53,3 +53,4 @@ D:\Documents\UNAJ\Ingeniería en Informática\Proyecto de Software\2024\TPs\Prue
 D:\Documents\UNAJ\Ingeniería en Informática\Proyecto de Software\2024\TPs\Prueba\TP1-Cejas_Nahuel\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 D:\Documents\UNAJ\Ingeniería en Informática\Proyecto de Software\2024\TPs\Prueba\TP1-Cejas_Nahuel\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
 D:\Documents\UNAJ\Ingeniería en Informática\Proyecto de Software\2024\TPs\Prueba\TP1-Cejas_Nahuel\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\Documents\UNAJ\Ingeniería en Informática\Proyecto de Software\2024\TPs\TP1-Cejas_Nahuel\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json

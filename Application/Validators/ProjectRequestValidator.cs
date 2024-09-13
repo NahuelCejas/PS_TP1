@@ -59,7 +59,7 @@ namespace Application.Validators
         }
 
         // Check that End is not before Start
-        private bool BeValidEndDate(DateTime? start, DateTime? end)
+        private static bool BeValidEndDate(DateTime? start, DateTime? end)
         {
             return end > start; 
         }
