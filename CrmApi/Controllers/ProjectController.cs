@@ -77,31 +77,7 @@ namespace CrmApi.Controllers
             }
 
         }
-
-        //public async Task<IActionResult> CreateProject(ProjectRequest request)
-        //{
-        //    try
-        //    {
-        //        var validationResult = await _validator.ValidateAsync(request);
-
-        //        if (!validationResult.IsValid)
-        //        {
-        //            return BadRequest(validationResult.Errors);
-        //        }
-
-        //        var result = await _projectPostService.CreateProject(request);
-        //        return new JsonResult(result) { StatusCode = 201 };
-        //    }
-        //    catch (BadRequest ex)
-        //    {
-        //        return new JsonResult(new ApiError { Message = ex.Message }) { StatusCode = 400 };
-        //    }
-
-
-
-
-        //}
-
+        
 
         /// <summary>
         /// Retrieves detailed information about a specific project by its ID.
@@ -124,6 +100,7 @@ namespace CrmApi.Controllers
                 return new JsonResult(new ApiError { Message = ex.Message }) { StatusCode = 404 };
             }
         }
+
 
         /// <summary>
         /// Adds a new interaction to an existing project.

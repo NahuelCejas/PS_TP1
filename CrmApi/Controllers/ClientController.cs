@@ -39,23 +39,7 @@ namespace CrmApi.Controllers
         /// <response code="201">Client created successfully.</response>
         [HttpPost]
         [ProducesResponseType(typeof(Clients), 201)]
-        [ProducesResponseType(typeof(ApiError), 400)]
-        //public async Task<IActionResult> CreateClient(ClientsRequest request)
-        //{
-        //    try
-        //    {
-        //        var result = await _clientService.CreateClient(request);
-        //        return new JsonResult(result) { StatusCode = 201 };
-        //    }
-        //    catch (BadRequest ex)
-        //    {
-        //        return new JsonResult(new ApiError { Message = ex.Message }) { StatusCode = 400 };
-        //    }
-        //    //catch (BadRequest)
-        //    //{                
-        //    //    return new JsonResult(new ApiError { Message = "Bad Request" });
-        //    //}
-        //}
+        [ProducesResponseType(typeof(ApiError), 400)]       
         public async Task<IActionResult> CreateClient(ClientsRequest request)
         {   
             try

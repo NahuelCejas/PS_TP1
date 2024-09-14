@@ -24,7 +24,7 @@ namespace Application.Validators
                 .NotEmpty()
                 .WithMessage("Status is required")
                 .InclusiveBetween(1, 5)
-                .WithMessage("User must be a number between 1 and 5.");
+                .WithMessage("Status must be a number between 1 and 5.");
 
             RuleFor(x => x.DueDate)
                 .NotEmpty()
